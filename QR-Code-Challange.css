@@ -1,0 +1,38 @@
+html {
+    font-size: 15px;
+    font-family: Outfit;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.main-container {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    width: 270px;
+    height: 440px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+    
+}
+
+#QR-code {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    border-radius: 3%;
+    display: flex;
+    align-self: center;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
