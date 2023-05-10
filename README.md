@@ -2,4 +2,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### This is not finished
 
-Actually I`m stuck in a root right now, can't seem to figure out how to make the site responsible for mobile devices, uploading this to git in the meantime while for anyone who wants to give me a hand! 
+Actually I'm stuck in a root right now, can't seem to figure out how to make the site responsible for mobile devices, uploading this to git in the meantime while for anyone who wants to give me a hand! 
